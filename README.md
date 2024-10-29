@@ -1,6 +1,6 @@
 # BREAN
 ## custom esp32cam
-Video : [I made a DUMMY ROBOTIC ARM from scratch！ - YouTube](https://www.youtube.com/watch?v=4ouxIVEyoTg)
+Video : [I made a CUSTOM ESP32CAM！ - YouTube](https://www.youtube.com/watch?v=4ouxIVEyoTg)
 
 ![](Renders,Images/1.png)
 
