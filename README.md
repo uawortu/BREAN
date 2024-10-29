@@ -15,4 +15,6 @@ Video : [I made a CUSTOM ESP32CAM！ - YouTube](https://www.youtube.com/watch?v=
 
 # I'll give a proper description in time
 
+
 ##### BREAN=beans+bread
+#### BOM/PART LIST [PARTLIST.md](https://github.com/user-attachments/files/17559861/PARTLIST.md)
